@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "site name": "الأرشيف السوري",
+    "site url": "https://yemeniarchive.org/",
+    "site urls": "https://yemeniarchive.org",
+    "facebook url": "https://facebook.com/yemeniarchive",
+    "twitter username": "@yemeni_archive",
+    "twitter url": "https://twitter.com/yemeni_archive",
+    "donate url": "https://www.patreon.com/yemeniarchive"
+  },
+  "en": {
+    "site name": "Yemeni Archive",
+    "site url": "https://yemeniarchive.org/",
+    "site urls": "https://yemeniarchive.org",
+    "facebook url": "https://facebook.com/yemeniarchive",
+    "twitter username": "@yemeni_archive",
+    "donate url": "https://www.patreon.com/yemeniarchive",
+    "twitter url": "https://twitter.com/yemeni_archive"
+  }
+}
