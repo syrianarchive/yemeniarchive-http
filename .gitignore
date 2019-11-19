@@ -48,3 +48,5 @@ jsconfig.json
 
 .idea
 *.swp
+
+.directory

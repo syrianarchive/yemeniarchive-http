@@ -1,6 +1,24 @@
 {% extends 'homepage.html' %}
 
 {% block latestreleasedesktop %}
+<div class="card">
+  <a href="https://medical-facilities.yemeniarchive.org">
+    <div class="card-image">
+      <img src="/assets/medical-dataset.jpg" class="img-responsive" />
+    </div>
+    <div class="card-header">
+      <div class="card-title">
+        <div class="tcontent">{{ "Medical Facilities Under Fire" | t(locale)}}</div>
+      </div>
+    </div>
+  </a>
+  <div class="card-body">
+    {{"Health care in Yemen has been systematically targeted by all parties to the conflict. Read key findings by Yemeni Archive and access the database" | t(locale) }}
+    <i><small>2019-11-14</small></i>
+  </div>
+  <div class="card-footer">
+  </div>
+</div>
 {% endblock %}
 
 {% block latestreleasemobile %}
