@@ -26,7 +26,8 @@
     "react/prefer-stateless-function": "off",
     "react/prop-types": "off",
     "lodash-fp/use-fp": "warn",
-    "jsx-a11y/href-no-hash": 0
+    "jsx-a11y/href-no-hash": 0,
+    "quotes": "off"
   },
   "plugins": [
     "import",
