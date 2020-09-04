@@ -63,7 +63,7 @@
     "metalsmith-multi-language": "^0.2.0",
     "metalsmith-permalinks": "^0.5.0",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "nunjucks": "^3.0.1",
     "path": "^0.12.7",
     "sass-loader": "^6.0.3",
